@@ -31,7 +31,7 @@ Um Padawan developer apaixonado por tecnologia, buscando transformar sonhos em r
   <img align="center" alt="kassio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="kassio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="kassio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="kassio-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/25312200?v=4">
+ <a href="https://github.com/kassi0"><img align="right" alt="kassio-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/25312200?v=4"></a>
 </div>
 </br>
 <div align="center">
