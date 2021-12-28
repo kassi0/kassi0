@@ -5,12 +5,6 @@ Um Padawan developer apaixonado por tecnologia, buscando transformar sonhos em r
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-<div align="center">
-  <a href="https://github.com/kassi0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kassi0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassi0&layout=compact&langs_count=7&theme=dracula"/>
-    </div>
   
 ```python
   from time import sleep
@@ -38,6 +32,11 @@ Um Padawan developer apaixonado por tecnologia, buscando transformar sonhos em r
   <img align="center" alt="kassio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="kassio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="kassio-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/25312200?v=4">
+</div>
+<div align="center">
+  <a href="https://github.com/kassi0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kassi0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassi0&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
